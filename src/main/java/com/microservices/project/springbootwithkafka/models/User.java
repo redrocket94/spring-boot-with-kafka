@@ -1,5 +1,6 @@
-package models;
+package com.microservices.project.springbootwithkafka.models;
 
+// Example object that can be used
 public class User {
 
     private String name;

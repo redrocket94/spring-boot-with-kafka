@@ -1,6 +1,6 @@
-package controllers;
+package com.microservices.project.springbootwithkafka.controllers;
 
-import engine.Producer;
+import com.microservices.project.springbootwithkafka.engine.Producer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
